@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boxSeach{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    color: white;
+    height: 5rem;
+   
+}
+.pInput p{
+    margin: 0 .9rem 0 0;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    
+}
+.filmContainer{
+    display: flex;
+    justify-content: center;
+}
+.contentBoxfilm{
+    width: 70rem;
+}
+.containerCard{
+    color: white;
+    height: 30rem;
+    
+}
+.boxcard{
+    border: 1px solid white;
+    width: 12.5rem;
+    display: flex;
+    justify-content: center;
+}
+.imagecard{
+    margin-top: .5rem;
+    display: flex;
+    justify-content: center;
+
+}
+.imagecard img{
+    border: 1px solid white;
+    width: 185.33px;
+    height: 250.33px;
+}
+.titreFilm h2{
+    margin: .5rem 0 .5rem 0;
+    font-size: .9rem;
+}
+.itermCard{
+    display: flex;
+    flex-direction: column;
+}
+.infoFilm{
+    display: inline-flex;
+    justify-content: space-between;
+    height: 2.5rem;
+    width: 11.6rem;
+    border-left: 2px solid rgb(87, 87, 228);
+    padding: 0 0 0 .3rem;
+    margin: 0 0 .4rem 0;
+}
+.iconView{
+    display: flex;
+    align-self: flex-end;
+    justify-content: flex-end;
+    
+}
+.iconView i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .2rem;
+    border: solid inherit;
+    border-radius: 2rem;
+    background-color: red;
+    width: 25px;
+}

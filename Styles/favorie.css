@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.delectContent{
+    margin-bottom: 5rem;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5rem;
+    color: white;
+}
+.delectIcone{
+    width: 1.8rem;
+    height: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    background-color: red;
+    margin: 0 1rem 0 .5rem;
+}
+.delectIconeCard{
+    font-size: .9rem;
+    width: 1.8rem;
+    height: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    background-color: red;
+    margin-top: .5rem;
+}
+.titrefavorie h2{
+    margin: .5rem 0 .5rem 0;
+    font-size: .6rem;
+    display: flex;
+    justify-content: space-between;
+}
+.titrefavorie{
+    height: 3rem;
+    width: 185.33px;
+    display: flex;
+    justify-content: space-between;
+}
+.titleFavoriebox{
+    color: white;
+    margin: 0 0 0 3rem;
+}

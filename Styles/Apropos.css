@@ -1,0 +1,76 @@
+.apropoBody{
+    margin-top: 7rem;
+    color: white;
+}
+.titlebox, .textContainer, .ligne, .Boxpropositerm{
+    display: flex;
+    justify-content: center;
+}
+.textContainer{
+    margin-top: 3rem;
+}
+.LigneIterm{
+    margin-top: 3rem;
+    width: 88%;
+    background-color: white;
+    height: 2px;
+}
+.paragraphebox{
+    border: 1px solid white;
+    margin-top: 3rem;
+    padding: 1rem;
+    width: 55%;
+}
+.creacteursImg{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 9rem;
+    border: 1px solid red;
+}
+
+.creacteursImg img{
+    width: 100%;
+    height: 100%;
+    border-radius: 9rem;
+}
+.titleCrea h2{
+    margin: .5rem 0 1rem 1rem;
+    font-size: 18px;
+}
+.titleCreat h2{
+    margin: .5rem 0 2.5rem 1rem;
+    font-size: 18px;
+}
+.boxdescription{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    width: 18rem;
+}
+
+.btnContact{
+    width: 18rem;
+    display: flex;
+    justify-content: center;
+}
+
+.btnContact button{
+    margin-top: 1rem;
+    border-radius: 1rem;
+    color: white;
+    background-color: rgb(58, 58, 236);
+    width: 9rem;
+    height: 2.8rem;
+}
+.boxcreacteurs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50rem;
+    
+}
+.flex{
+    width: 78% !important;
+}
